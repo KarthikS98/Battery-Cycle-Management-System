@@ -24,7 +24,7 @@ A smart battery management system that monitors and maintains battery cycles whi
 ## Hardware Components
 
 ### Sensors
-- ACS712 Current Sensor (5A version)
+- ZMCT103C Current Sensor (5A version)
 - ZMPT101B Voltage Sensor (220V AC)
 
 ### Control & Display
